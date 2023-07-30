@@ -1,0 +1,31 @@
+
+.schetchik{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+ 
+}
+.schetchik reset{
+  
+}
+.schetchik p{
+  padding: 20px;
+  font-size: 20px;
+}
+
+.schetchik button{
+  padding: 50px;
+  font-size: 30px;
+  border-radius: 30px;
+
+}
+
+
+.schetchik .increment{
+  background-color:greenyellow;
+}
+.schetchik .decrement{
+  background-color: red;
+}
+
